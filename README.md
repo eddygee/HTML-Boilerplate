@@ -18,6 +18,7 @@ way that you want.
 
 ## Quick start
 ## Quick start
+## Quick start
 
 Choose one of the following options:
 
